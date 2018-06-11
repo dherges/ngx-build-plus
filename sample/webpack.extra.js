@@ -5,5 +5,6 @@ module.exports = {
         "@angular/common": "ng.common",
         "@angular/platform-browser": "ng.platformBrowser",
         "@angular/elements": "ng.elements"
-    }
+    },
+    "mode": "development"
 }
